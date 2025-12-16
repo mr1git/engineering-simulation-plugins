@@ -81,6 +81,23 @@ application.
 
 ---
 
+## Developer Enablement
+
+In addition to implementing the plugins, I created internal documentation and a
+step-by-step tutorial to help future developers build new plugins using the
+framework.
+
+The tutorial covered:
+- Plugin lifecycle and interfaces
+- Recommended project structure
+- Common extension points
+- Best practices for visualization and reporting plugins
+
+This documentation was used to onboard additional developers and ensure
+consistent plugin design.
+
+---
+
 ## Demonstrations
 
 The `videos/` directory contains short recordings demonstrating:

@@ -9,7 +9,9 @@ All videos are unlisted and shared for demonstration purposes only.
 
 ## Interactive Charting Plugin
 
-- Currently unavailable. Contacted ASI for video.
+- **Feature overview & interaction**
+  - Multi-series plotting, selection tracking, visibility toggles, series simulation  
+  🎥 [Watch video](https://drive.google.com/file/d/1-RUISTFbi-qYo2dKxKxVf0mIHWD8eWwl/view?usp=sharing)
 
 ---
 

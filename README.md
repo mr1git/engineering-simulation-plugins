@@ -100,9 +100,8 @@ consistent plugin design.
 
 ## Demonstrations
 
-The `videos/` directory contains short recordings demonstrating:
-- Interactive charting and series tracking
-- Dynamic report generation within the simulation workflow
+Short demo and tutorial videos are available in
+[`videos.md`](videos.md).
 
 ---
 
